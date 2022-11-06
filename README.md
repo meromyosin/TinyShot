@@ -13,7 +13,6 @@ All of your screenshots will be saved in Pictures/TS folder
 The screenshots are saved as png for better quality. The name scheme is also very simple and easy to understand
 
 Play this to understand better  
-![gif guide](https://github.com/gusmeadows/TinyShot/raw/main/instructions.gif)
 
 https://user-images.githubusercontent.com/96720402/200174648-003e8b0a-8b19-40ba-970e-f864a4a19a0d.mp4
 
