@@ -15,6 +15,9 @@ The screenshots are saved as png for better quality. The name scheme is also ver
 Play this to understand better  
 ![gif guide](https://github.com/gusmeadows/TinyShot/raw/main/instructions.gif)
 
+https://user-images.githubusercontent.com/96720402/200174648-003e8b0a-8b19-40ba-970e-f864a4a19a0d.mp4
+
+
 ### Portable  
 You hate installing? I got u covered. Grab the zip from [here](https://github.com/gusmeadows/TinyShot/releases). Extract it. Drag & Drop the TinyShot.exe to taskbar. Done!!!
 
