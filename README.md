@@ -13,7 +13,7 @@ All of your screenshots will be saved in Pictures/TS folder
 The screenshots are saved as png for better quality. The name scheme is also very simple and easy to understand
 
 ### Portable  
-You hate installing? I got u covered. Grab the zip from [here](https://github.com/gusmeadows/TinyShot/releases). Extract it. Drag drop the TinyShot.exe to taskbar. Done!!!
+You hate installing? I got u covered. Grab the zip from [here](https://github.com/gusmeadows/TinyShot/releases). Extract it. Drag & Drop the TinyShot.exe to taskbar. Done!!!
 
 ## To Do  
 add option for sound/notification  
