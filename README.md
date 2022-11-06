@@ -12,6 +12,9 @@ After installing, drag the icon either from desktop or star, and pin it to taskb
 All of your screenshots will be saved in Pictures/TS folder  
 The screenshots are saved as png for better quality. The name scheme is also very simple and easy to understand
 
+Please watch this to understand better
+![gif guide](https://github.com/gusmeadows/TinyShot/raw/main/instructions.gif)
+
 ### Portable  
 You hate installing? I got u covered. Grab the zip from [here](https://github.com/gusmeadows/TinyShot/releases). Extract it. Drag & Drop the TinyShot.exe to taskbar. Done!!!
 
