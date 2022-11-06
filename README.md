@@ -12,8 +12,14 @@ After installing, drag the icon either from desktop or star, and pin it to taskb
 All of your screenshots will be saved in Pictures/TS folder  
 The screenshots are saved as png for better quality. The name scheme is also very simple and easy to understand
 
+### Portable  
+You hate installing? I got u covered. Grab the zip from [here](https://github.com/gusmeadows/TinyShot/releases). Extract it. Drag drop the TinyShot.exe to taskbar. Done!!!
+
 ## To Do  
 add option for sound/notification  
 add another shortcut for current window snip  
 add option to keep it in tray(ik this one is quite obv, working on it)
+
+### Credits  
+TinyShot uses [batch.scripts](https://github.com/npocmaka/batch.scripts) licensed under [MIT](https://github.com/npocmaka/batch.scripts/blob/master/LICENSE)
 
