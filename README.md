@@ -21,7 +21,7 @@ https://user-images.githubusercontent.com/96720402/200175247-650d6227-37d4-477f-
 
 
 ### Portable  
-You hate installing? I got u covered. Grab the zip from [here](https://github.com/gusmeadows/TinyShot/releases). Extract it. Drag & Drop the TinyShot.exe to taskbar. Done!!!
+You hate installing? I got u covered. Grab the latest portable zip from [here](https://github.com/gusmeadows/TinyShot/releases). Extract it. Drag & Drop the TinyShot.exe to taskbar. Done!!!
 
 ## To Do  
 add option for sound/notification  
