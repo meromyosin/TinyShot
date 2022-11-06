@@ -5,7 +5,7 @@ Simple one click screenshots
 WINDOWS SUCKS. I couldn't find a simple app, which just takes screenshots by one click. Almost every program has 2,3 click process. Keyboard shortcut Win+PrtSc is good, but the filename is Screenshot(1), Screenshot(2), and so on. I hate this awfull name scheme. On laptops you have to press Fn key too, that's another hassle. And don't get me started on Snip&Sketch. You have to name each screenshot, manually save it, wtf is wrong with MS????
 
 ## How To Use  
-You will need to install it first. So grab the latest version from [here](https://github.com/gusmeadows/TinyShot/releases). Its a simple setup.  
+You will need to install it first. So grab the latest version from [releases](https://github.com/gusmeadows/TinyShot/releases). Its a simple setup.  
 After installing, drag the icon either from desktop or star, and pin it to taskbar. And you are done!!!.
 
 
