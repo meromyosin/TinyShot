@@ -4,6 +4,6 @@ plugins:
 
 show_downloads: false
 
-title: TinyShot
+github:
+  is_project_page: false
 
-description: simple one click screenshots !!!
