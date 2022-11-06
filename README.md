@@ -6,7 +6,7 @@ WINDOWS SUCKS. I couldn't find a simple app, which just takes screenshots by one
 
 ## How To Use  
 You will need to install it first. So grab the latest version from [releases](https://github.com/gusmeadows/TinyShot/releases). Its a simple setup.  
-After installing, drag the icon either from desktop or star, and pin it to taskbar. And you are done!!!.
+After installing, drag the icon either from desktop or start menu, and pin it to taskbar. And you are done!!!.
 
 
 All of your screenshots will be saved in Pictures/TS folder  
