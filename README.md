@@ -26,7 +26,7 @@ You hate installing? I got u covered. Grab the latest portable zip from [here](h
 ## To Do  
 add option for sound/notification  
 add another shortcut for current window snip  
-add option to keep it in tray(ik this one is quite obv, working on it)
+add option to keep it in tray(ik this one is quite obv, working on it)(u can try using rbtray for now)
 
 ### Credits  
 TinyShot uses [batch.scripts](https://github.com/npocmaka/batch.scripts) licensed under [MIT](https://github.com/npocmaka/batch.scripts/blob/master/LICENSE)
