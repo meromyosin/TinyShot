@@ -13,7 +13,8 @@ The screenshots are saved as png for better quality. The name scheme is also ver
 ## To Do  
 add option for sound/notification  
 add another shortcut for current window snip  
-screen recording😬
+screen recording😬  
+~~tray icon~~
 
 ### Credits  
 TinyShot uses [ahk](https://github.com/Lexikos/AutoHotkey_L) licensed under [GPL-2.0](https://github.com/Lexikos/AutoHotkey_L/blob/master/license.txt)
