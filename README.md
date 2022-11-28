@@ -10,14 +10,14 @@ You will find the exe running down in system tray.(It maybe hidden under expand 
 All of your screenshots will be saved in Pictures/TS folder  
 The screenshots are saved as png for better quality. The name scheme is also very simple and easy to understand.
 
-play this to understand better  
+see below to understand better  
 ![gifhowto](https://github.com/gusmeadows/TinyShot/raw/main/tray.gif)
 
 ## To Do  
-add option for sound/notification  
-add another shortcut for current window snip  
-screen recording😬  
-~~tray icon~~ done
+-add option for sound/notification  
+-add another shortcut for current window snip  
+-screen recording😬  
+-~~tray icon~~ done
 
 ### Credits  
 TinyShot uses [ahk](https://github.com/Lexikos/AutoHotkey_L) licensed under [GPL-2.0](https://github.com/Lexikos/AutoHotkey_L/blob/master/license.txt)
