@@ -10,7 +10,8 @@ You will find the exe running down in system tray.(It maybe hidden under expand 
 All of your screenshots will be saved in Pictures/TS folder  
 The screenshots are saved as png for better quality. The name scheme is also very simple and easy to understand.
 
-![](https://github.com/gusmeadows/TinyShot/tray.gif)
+play this to understand better  
+![gifhowto](https://github.com/gusmeadows/TinyShot/raw/main/tray.gif)
 
 ## To Do  
 add option for sound/notification  
