@@ -2,7 +2,7 @@
 Simple one click screenshots
 
 ## How To  
-You will need to install it first. So grab the latest version from [releases](https://github.com/gusmeadows/TinyShot/releases). Its a simple setup.  
+You will need to install it first. So grab the latest version from [releases](https://github.com/meromyosin/TinyShot/releases). Its a simple setup.  
 At the exit dialog make sure to tick checkbox for Run. Or if u didn't then just run tinyshot from Start Menu>TinyShot.
 
 You will find the exe running down in system tray.(It maybe hidden under expand arrow). One Right Click and you have taken a screenshot.
@@ -11,7 +11,7 @@ All of your screenshots will be saved in Pictures/TS folder
 The screenshots are saved as png for better quality. The name scheme is also very simple and easy to understand.
 
 see below to understand better  
-![gifhowto](https://github.com/gusmeadows/TinyShot/raw/main/tray.gif)
+![gifhowto](https://github.com/meromyosin/TinyShot/raw/main/tray.gif)
 
 ## To Do  
 -add option for sound/notification  
